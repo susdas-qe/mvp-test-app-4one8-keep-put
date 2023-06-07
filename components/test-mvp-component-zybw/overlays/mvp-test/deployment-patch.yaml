@@ -15,7 +15,7 @@ spec:
       - env:
         - name: var_name
           value: test
-        image: quay.io/susdas_quay_org/mvp-dev-xbsz-tenant/mvp-test-app/test-mvp-component-zybw@sha256:6dcabc822ef6e649528033cdd6555a7ee383eb640cba4fe80308e71356cc6928
+        image: quay.io/susdas_quay_org/mvp-dev-xbsz-tenant/mvp-test-app/test-mvp-component-zybw@sha256:42eb7ce8f21229edee449a9981868bb27baef96ec8201df92d4d0db1f7e0dc85
         name: hacbs-jvm-build-test-project
         resources: {}
 status: {}
